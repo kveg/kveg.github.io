@@ -81,8 +81,8 @@ analytics:
 
 
 # Site Author
-author:
-  # name             : "ゲルダ・リサーチ kveg"
+author: 
+  name             : "ゲルダ・リサーチ kveg"
   avatar           : "profile.png"
   bio              : "independent researcher"　　#サイドバー
   location         : "Japan"
