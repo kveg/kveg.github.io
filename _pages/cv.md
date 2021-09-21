@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Waseda University
+* M.A. in Waseda University
+* Graduate school, London School of Economics, University of London
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ~present: independent researcher
+  * Duties included: marketing research, reporting, writing
+  * writing on organic food market, sustainable certifications & standards, floriculture, protein transition
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2009: Researcher (commision)
+  * MPS Japan
+  * Duties included: conduct surverys about flower consumption, demend for sustainalbe certification (growers, retailers, consumers), seminars
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English
+* Spanish
 
 Publications
 ======
@@ -56,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently responsible for conducting consumer research and customer satisfaction survery for floriculture industry to be submitted to the Ministry of Agriculture, Fishery and Forestry, Japan
