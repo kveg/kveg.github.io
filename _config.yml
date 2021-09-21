@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "kveg / kveg webpageite Title"
+title                    : "kveg webpageite"
 title_separator          : "-"
 name                     : &name "gerda research"
 description              : &description "report, data"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gerda Research"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "bio"　　#サイドバー
   location         : "Japan"
   employer         :
   pubmed           : 
@@ -96,25 +96,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
+  github           : "https://github.com/kveg"
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  twitter          : #""
 
 
 # Reading Files
@@ -175,9 +162,6 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
