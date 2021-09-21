@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "kveg webpageite"
+title                    : "kveg webpage"
 title_separator          : "-"
-name                     : &name "gerda research"
+name                     : &name "kveg"
 description              : &description "report, data"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://kveg.github.io" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "kveg"
   avatar           : "profile.png"
-  bio              : "bio"　　#サイドバー
+  bio              : "independent researcher"　　#サイドバー
   location         : "Japan"
   employer         :
   pubmed           : 
