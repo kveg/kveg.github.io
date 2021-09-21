@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+encoding: UTF-8
+
 # Site Settings
 locale                   : "en-US"
 title                    : "kveg webpage"
@@ -80,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "kveg"
+  name             : "gerda research"
   avatar           : "profile.png"
   bio              : "independent researcher"　　#サイドバー
   location         : "Japan"
