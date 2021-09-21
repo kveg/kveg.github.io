@@ -9,4 +9,3 @@ redirect_from:
 ---
 
 This is Gerda Research's home on the web! ゲルダ・リサーチのウェブサイト
-Lorem ipsum.
