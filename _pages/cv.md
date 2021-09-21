@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Waseda University
-* M.A. in Waseda University
-* Graduate school, London School of Economics, University of London
+* B.A. in Waseda University, Tokyo, Japan
+* M.A. in Waseda University, Tokyo, Japan
+* Graduate school, London School of Economics, University of London, London, U.K.
 
 Work experience
 ======
