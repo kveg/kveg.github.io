@@ -9,7 +9,7 @@ encoding: UTF-8
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gerda Research webpage"
+title                    : "Gerda Research"
 title_separator          : "-"
 name                     : &name "Gerda Research"
 description              : &description "report, data"
@@ -82,8 +82,8 @@ analytics:
 
 # Site Author
 author: 
-  name             : #"Gerda Research ゲルダ・リサーチ"
-  avatar           : #"profile.png"
+  name             : "Gerda Research"
+  avatar           : "profile.png"
   bio              : "independent researcher"　　#サイドバー
   location         : "Japan"
   googlescholar    : 
