@@ -1,19 +1,14 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://kveg.github.io/publications/
+    url: /publications/
 
   - title: "talks"
-    url: https://kveg.github.io/kveg.github.io/talks/    
-    
-  - title: "Portfolio"
-    url:https://kveg.github.io/portfolio/
-        
+    url: /talks/    
+            
   - title: "Blog Posts"
-    url: https://kveg.github.io/year-archive/
+    url: /year-archive/
     
   - title: "CV"
-    url: https://kveg.github.io/cv/
-    
-  - title: "Guide"
-    url: https://kveg.github.io/markdown/
+    url: /cv/
+      
