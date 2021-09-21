@@ -9,9 +9,9 @@ encoding: UTF-8
 
 # Site Settings
 locale                   : "en-US"
-title                    : "kveg webpage"
+title                    : "Gerda Research webpage"
 title_separator          : "-"
-name                     : &name "kveg"
+name                     : &name "Gerda Research"
 description              : &description "report, data"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://kveg.github.io" # the subpath of your site, e.g. "/blog"
@@ -77,27 +77,20 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : 
 
 
 # Site Author
 author: 
-  name             : "ゲルダ・リサーチ"
-  avatar           : "profile.png"
+  name             : #"Gerda Research ゲルダ・リサーチ"
+  avatar           : #"profile.png"
   bio              : "independent researcher"　　#サイドバー
   location         : "Japan"
-  employer         :
-  pubmed           : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
   facebook         :
-  foursquare       :
   github           : "https://github.com/kveg"
   instagram        :
   linkedin         :
