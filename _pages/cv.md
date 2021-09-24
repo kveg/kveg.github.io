@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Waseda University, Japan
+* M.A. in Graduate School, Waseda University, Japan
+* Diploma in Graduate School, London School of Economics, University of London, U.K.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ~ Spring 2020: Researcher
+  * MPS Japan
+  * Duties included: Research on environmental certifications, floriculture, sustainability
+  #* Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* ~present: Founder & Researcher
+  * Gerda Research
+  * Duties included: Conducting market research
+  #* Supervisor: Professor Hub
   
 Skills
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+#* 
