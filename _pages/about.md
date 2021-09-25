@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ゲルダ・リサーチ（青木恭子）"
+title: "青木 恭子（ゲルダ・リサーチ）・Aoki Kyoko"
 excerpt: "Gerda Research by Aoki Kyoko"
 author_profile: true
 redirect_from: 
