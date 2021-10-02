@@ -1,7 +1,7 @@
 ---
 title: "欧州の有機市場の現在：需要の伸びに生産追い付かず" (Organic Market in Europe)
 collection: publications
-permalink: /publication/22016-04-26-Organic-Europe
+permalink: /publication/2016-04-26-Organic-Europe
 excerpt: '欧州と日本の有機市場の概況、統一市場調査に向けた動き　欧州ではFiBL（有機農業研究所）などを中心に、国際的なデータ共有努力。汎欧州プロジェクト「オーガニックデータネットワーク」は、ＥＵの資金を得て活動し（～2014年）、データの収集基準をウェブ上で公開している（OrMaCode－Organic market data Manual and Code of Practice)。米国ではＯＴＡが毎年調査。日本の場合、2011年のOMR調査から5年が経ち、海外と整合性のある市場調査を模索する動きはある'
 date: 2016-04-26
 venue: '寄稿'
