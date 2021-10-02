@@ -12,4 +12,4 @@ citation: '青木恭子(2016)「オーガニック・フードマーケティン
 
 # [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: 青木恭子（2016）「オーガニック・フードマーケティング通信　トウモロコシからみるメキシコ農業の二つの顔」『Agrio』2016年2月16日号（通号 180）、時事通信社 (Aoki Kyoko (2016). Organic food marketing  White corn, Yellow corn: Two faces of Mexican agriculture" <i>Agrio</i>. Feb 16,2016 (180), Jiji Press.
+Recommended citation: 青木恭子（2016）「オーガニック・フードマーケティング通信　トウモロコシからみるメキシコ農業の二つの顔」『Agrio』2016年2月16日号（通号 180）、時事通信社 (Aoki Kyoko (2016). Organic food marketing  White corn, Yellow corn: Two faces of Mexican agriculture" <i>Agrio</i>. Feb 16 (180), Jiji Press.
