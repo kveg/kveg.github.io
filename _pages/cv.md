@@ -31,10 +31,6 @@ Skills
 ======
 * Spanish 
 * Russian (basic)
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-# * Skill 3
 
 Publications
 ======
@@ -48,12 +44,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-# Teaching
+Service and leadership
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-# Service and leadership
-======
-#* 
+耕作放棄地再生中　Regeneration of abandoned land & bamboo forest
