@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Waseda University, Japan
-* M.A. in Graduate School, Waseda University, Japan
-* Diploma in Graduate School, London School of Economics, University of London, U.K.
+* B.A. in Sociology, Waseda University, Japan
+* M.A. in Sociology, Graduate School, Waseda University, Japan
+* Diploma in International Relations, Graduate School, London School of Economics, University of London, U.K.
 
 Work experience
 ======
@@ -29,12 +29,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spanish 
+* Russian (basic)
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+# * Skill 3
 
 Publications
 ======
@@ -48,12 +48,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+# Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+# Service and leadership
 ======
 #* 
