@@ -12,4 +12,4 @@ citation: 'Aoki, Kyoko.(2016). &quot; Organic Market in Europe.&quot; <i>Agrio</
 
 # [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: 青木恭子（2016）「オーガニック・フードマーケティング通信　欧州の有機市場の現在：需要の伸びに生産追い付かず」『Agrio』2016年4月26日号（通号107）、時事通信社 (Aoki, Kyoko (2016). "Organic Markets in Europe." <i>Agrio</i>. April 26,2016, Jiji Press.)
+Recommended citation: 青木恭子（2016）「オーガニック・フードマーケティング通信　欧州の有機市場の現在：需要の伸びに生産追い付かず」『Agrio』2016年4月26日号（通号107）、時事通信社 (Aoki, Kyoko (2016). "Organic Markets in Europe." <i>Agrio</i>. April 26, Jiji Press.)
