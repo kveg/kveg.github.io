@@ -7,10 +7,10 @@ date: 2017-11-21
 venue: '寄稿'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
 citation: '青木恭子(2017)「オーガニック・フードマーケティング通信　知られざるオーガニック大国、アルゼンチン　有機認証農地は世界2位でも、99%は輸出」
-『Agrio』2017年11月21日号（通号 183）、p.13-15. 時事通信社  (Aoki, Kyoko (2017). &quot; Organic for Export: Organic production and market in Argentine.&quot; <i>Agrio</i>. Nov 21(183), p.13-15. Jiji Press.).'
+『Agrio』2017年11月21日号（通号 183）、p.13-15. 時事通信社  (Aoki, Kyoko (2017). Organic for Export: Organic production and market in Argentine. <i>Agrio</i>. Nov 21(183), p.13-15. Jiji Press.)'
 ---
 # This paper is about the number 2. The number 3 is left for future work.
 
 # [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: 青木恭子（2017）「オーガニック・フードマーケティング通信　知られざるオーガニック大国、アルゼンチン　有機認証農地は世界2位でも、99%は輸出」『Agrio』2017年11月21日号（通号 183）、p.13-15、時事通信社
+Recommended citation: 青木恭子（2017）「オーガニック・フードマーケティング通信　知られざるオーガニック大国、アルゼンチン　有機認証農地は世界2位でも、99%は輸出」『Agrio』2017年11月21日号（通号 183）、p.13-15、時事通信社 (Aoki, Kyoko (2017). Organic for Export: Organic production and market in Argentine. <i>Agrio</i>. Nov 21(183), p.13-15. Jiji Press.)
