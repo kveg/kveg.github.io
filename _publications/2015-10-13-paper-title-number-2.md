@@ -1,7 +1,7 @@
 ---
 title: "大衆化する米国のオーガニック市場"
 collection: publications
-permalink: /publications/2015-10-13-Organic-Food-US
+permalink: /publications/2015-10-13-paper-title-number-2
 excerpt: 'オーガニックが「普通にある」状態の実現に向けて、ヒントを探る'
 date: 2015-10-13
 venue: '寄稿'
