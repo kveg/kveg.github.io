@@ -1,7 +1,7 @@
 ---
 title: "たんぱく質イノベーション (Protein transition)"
 collection: publications
-permalink: /publication/2018-03-13-Protein-transition
+permalink: /publication/2018-03-13-Protein-transition-number-10
 excerpt: '植物性たんぱく質への移行とイノベーション　背景と各国の政策'
 date: 2018-03-13
 venue: '寄稿'
