@@ -1,16 +1,15 @@
 ---
-title: "FSI2020 ユルン・アウトフースデンさん取材　花き認証はデータを基盤にIPMに移行、欧州量販は農場のデータを見たがっている (Certifications shift towards more data-driven IPM,  in accordance with European retailers demand)"
+title: "FSI2020（花きサステナビリティ・イニシアティブ）ユルン・アウトフースデンさん取材　上：このままでは、2020年以降、ヨーロッパへの日本の花輸出は困難になる (Interview with Mr.Jeroen Oudheusden, FSI2020（Floriculture Sustainability Initiative）Exectutive Officer: Japanese flowers as of now wouldn't be able to satisfy the European market standards.)"
 collection: publications
 permalink: /publications/2019-06-24-FSI-Jeroen2-number-14
-excerpt: '認証はデータを基盤にIPMに移行、欧州量販は農場のデータを見たがっている これから重要になるのは、IPM（総合的病害虫・雑草管理）と記録管理。将来的に、認証における監査の重要性は下がり、継続的なデータを活用した生産とサプライチェーンの透明性確保が新たな標準になる.。FSIは記録、透明性、データ利用、残留農薬試験などすべての面で新しい基準を作り、各認証機関を指導している。英国のテスコ、セインスベリ―やスイスのミグロなどの大手量販は、認証だけでは不安だと感じている。現在の認証はブラックボックスで、MPS-AでもMPS-SQの認証があっても、実際に法令遵守かどうか、農薬の使用量を削減しているか、確証はない。だから、小売は使用農薬やエネルギー、肥料、さらに農場の労務管理のデータを見て、理解したがっている。南米やケニアの生産者はすでに、データ中心に透明性を示すモデルに移行している。FSIのアプローチはIPMで、農薬のブラックリストや残留量を基準にするのではなく、生物的防除や予察技術を駆使して総合的に環境負荷を減らす方向に向かう。データは、その技術的基盤。MPS-ABCは、今までFSIバスケット（FSIが認める認証スキームの集合）に含まれていなかった。それは、MPS-ABCには、適正な生産活動や最低限果たすべき要求事項への言及がなく、達成すべき目標水準が明確でなく、法令遵守の項目もないから。農薬に関しては、購入記録、農薬保管、登録切れ農薬の処理、散布時の保護用具使用など、20項目以上の決定的に重要な基準が、MPS-ABCにはない。今後、MPS-ABCはMPS-GAPと組み合わせることで、 FSIバスケットに包摂される。日本の花き業界も、法令遵守や労働安全などの分野をまとめて包括的なシステムを作るべき。アジェンダを掲げなければ、後手に回ってしまう。花は自然からの贈り物である。人間は、環境や社会や他人の犠牲の上に、花や植物の生産を続けるべきではない。ユルンさんの主張する「新しい考え方」では、花き産業は循環経済の中で営まれるべきで、気候変動にマイナスの影響を与えるものであってはならない。こうした考え方に対する懐疑は、10年以内に消えていくだろうという。 '
-date: 2019-07-24
+excerpt: 'FSIは「2020年までに、花きの90%を サステナブルな生産・流通に」という目標を掲げ、国連・世界貿易機関・オランダ政府とのパートナーシップで活動。FSIにはアフリカ、南米の主要生産・輸出団体やダッチ・フラワーグループ、欧州の大手流通小売・資材企業が加盟、世界の花き産業の要所を掌握して、環境にも人にも優しい花産業の未来を築く運動を急展開している。オランダ・アムステルダムで、FSIを率いるユルン・アウトフースデンさんに取材した。ユルンさんは、このままでは「2020年以降、ヨーロッパへの日本の花輸出は不可能になる」と警鐘。OECDや国連の規範を守るべき立場にある政府が定められた義務を履行せず、環境と人々を尊重し保護しようとしなければ、日本政府にもリスクがあり、問題があることになるだろう。調達側から見れば、日本の生産者はデータに欠けるため、他国の花よりサプライチェーンのリスクが高くなる。輸入にも影響しうる。他の生産国は、法令に則り、環境に配慮して生産された花々を市場に出しているので、対応しなければ、日本企業は、残った品しか調達できないリスクにさらされる。日本は日持ちしか気にしないなら、日本に売れということになり、これでは日本はゲームの敗者になってしまうのではないか。'
+date: 2019-06-24
 venue: '寄稿'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
-citation: '青木恭子（2019）「FSI2020（花きサステナビリティ・イニシアティブ）ユルン・アウトフースデンさん取材　下：認証はデータを基盤にIPMに移行、欧州量販は農場のデータを見たがっている」『MPSニュース』2019年7月24日 (Aoki, Kyoko (2019). Interview with Mr.Jeroen Oudheusden, FSI2020（Floriculture Sustainability Initiative）Exectutive Officer. <i> MPS News</i>. July 24.)'
+citation: '青木恭子（2019）「FSI2020（花きサステナビリティ・イニシアティブ）ユルン・アウトフースデンさん取材　上：このままでは『2020年以降、ヨーロッパへの日本の花輸出は困難になる』と警鐘」『MPSニュース』2019年6月24日 (Aoki, Kyoko (2019). Interview with Mr.Jeroen Oudheusden, FSI2020（Floriculture Sustainability Initiative）Exectutive Officer: Japanese flowers as of now wouldn't be able to satisfy the European market standards. <i> MPS News</i>. June 24.)'
 ---
 # This paper is about the number 2. The number 3 is left for future work.
 
 # [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: 青木恭子（2019）「FSI2020（花きサステナビリティ・イニシアティブ）ユルン・アウトフースデンさん取材　上：このままでは『2020年以降、ヨーロッパへの日本の花輸出は困難になる』と警鐘」『MPSニュース』2019年6月24日
-(Aoki, Kyoko (2019). Interview with Mr.Jeroen Oudheusden, FSI2020（Floriculture Sustainability Initiative）Exectutive Officer: Japanese flowers as of now wouldn't be able to satisfy the European market standards. <i> MPS News</i>. June 24.)
+Recommended citation: 青木恭子（2019）「FSI2020（花きサステナビリティ・イニシアティブ）ユルン・アウトフースデンさん取材　上：このままでは『2020年以降、ヨーロッパへの日本の花輸出は困難になる』と警鐘」『MPSニュース』2019年6月24日 (Aoki, Kyoko (2019). Interview with Mr.Jeroen Oudheusden, FSI2020（Floriculture Sustainability Initiative）Exectutive Officer: Japanese flowers as of now wouldn't be able to satisfy the European market standards. <i> MPS News</i>. June 24.)
