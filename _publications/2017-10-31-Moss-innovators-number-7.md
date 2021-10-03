@@ -9,8 +9,8 @@ paperurl: 'https://organicnetwork.jp/business/topix/2017/10/31/25140/'
 citation: '青木恭子(2017)「苔、自然の織り成す微小なタペストリー ブームの舞台裏で栽培を支える人たち」GON(Global Organic Network)、2017年10月31日 (Aoki, Kyoko (2017). Moss, Nature's tiny tapestry: Innovators and growers of moss cultivation. <i>GON</i>. Oct 31.)'
 ---
 
-# This paper is about the number 7. The number 8 is left for future work.
+#This paper is about the number 7. The number 8 is left for future work.
 
-# [Download paper here] (http://academicpages.github.io/files/paper2.pdf)
+#[Download paper here] (http://academicpages.github.io/files/paper2.pdf)
 
 Recommended citation: 青木恭子(2017)「苔、自然の織り成す微小なタペストリー ブームの舞台裏で栽培を支える人たち」GON(Global Organic Network)、2017年10月31日 (Aoki, Kyoko (2017). Moss, Nature's tiny tapestry : Innovators and growers of moss cultivation. <i>GON</i>. Oct 31.)
