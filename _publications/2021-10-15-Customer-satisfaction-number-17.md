@@ -9,7 +9,7 @@ venue: '寄稿'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
 citation: '青木恭子（2021）『花小売店　顧客満足の構造：2021年JCSI日本版顧客満足度調査 報告書（生花店カスタム調査）』2021年3月、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2021). <i>The structure of customer satisfaction of flower retailers 2021: JCSI (Japanese Customer Satisfaction Index) survey report (Custom survey)</i>. Council for the Improvement of the Vase-life of Japanese Flowers.)'
 ---
-# This paper is about the number 3. The number 4 is left for future work.
+
 
 # [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
