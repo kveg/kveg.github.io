@@ -6,7 +6,7 @@ excerpt: 'FSIは「2020年までに花きの90%を サステナブルな生産�
 date: 2019-06-24
 venue: '寄稿'
 paperurl: #'  '
-citation: '青木恭子（2019）「FSI2020 (花きサステナビリティ・イニシアティブ) ユルン・アウトフースデンさん取材（上） このままでは、2020年以降、ヨーロッパへの日本の花輸出は困難になると警鐘」『MPSニュース』6月24日 (Aoki, Kyoko (2019). Interview with Mr.Jeroen Oudheusden, FSI2020, Floriculture Sustainability Initiative, Exectutive Officer. Japanese flowers as of now won't be able to satisfy the new European market standards. <i>MPS News</i>. June 24.)'
+citation: '青木恭子(2019)「FSI2020 (花きサステナビリティ・イニシアティブ) ユルン・アウトフースデンさん取材　上:このままでは、2020年以降、ヨーロッパへの日本の花輸出は困難になると警鐘」『MPSニュース』6月24日 (Aoki, Kyoko(2019). Interview with Mr.Jeroen Oudheusden, FSI2020, Floriculture Sustainability Initiative, Exectutive Officer. Japanese flowers as of now won't be able to satisfy the new European market standards. <i>MPS News</i>. June 24.)'
 ---
 # This paper is about the number 1. The number 2 is next.
 
