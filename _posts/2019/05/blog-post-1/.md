@@ -1,0 +1,22 @@
+---
+title: 'FSI事務局長 ユルン・アウトフースデンさんインタビュー  FSIの活動について (Interview with Mr.Jeroen Oudheusden, FSI (The Floriculture Sustainability Initiative), Executive Officer) '
+date: 2019-05-19
+permalink: /posts/2019/05/blog-post-1/
+tags:
+  - Flower certification
+  - Floriculture sustainability
+  - Social, environmental certifications
+---
+
+FSI事務局長 ユルン・アウトフースデンさんインタビュー  FSIの活動について」2019年5月19日、オランダ アムステルダム　ダッチ デザイン ホテル アルテミス
+Interview with Mr.Jeroen Oudheusden, FSI (The Floriculture Sustainability Initiative), Executive Officer.  Dutch Design Hotel Artemis, Amsterdam, the Netherlands. 
+
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
