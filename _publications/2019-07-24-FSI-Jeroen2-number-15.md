@@ -8,7 +8,7 @@ venue: '寄稿'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
 citation: '青木恭子（2019）「FSI2020（花きサステナビリティ・イニシアティブ）ユルン・アウトフースデンさん取材(2) 認証はデータを基盤にIPMに移行、欧州量販は農場のデータを見たがっている」『MPSニュース』2019年7月24日 (Aoki, Kyoko (2019). Interview with Mr.Jeroen Oudheusden, FSI2020（Floriculture Sustainability Initiative）Exectutive Officer. <i> MPS News</i>. July 24.)'
 ---
-# This paper is about the number 2. The number 3 is left for future work.
+# This paper is about the number 2. The number 1 is in the previous section.
 
 # [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
