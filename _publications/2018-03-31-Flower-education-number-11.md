@@ -8,10 +8,10 @@ excerpt: '学校や地域等で実施されてきた「花育」の効果を分�
 date: 2018-03-31
 venue: '寄稿'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
-citation: '青木恭子(2018)『「花育」効果検証: 花に触れ親しむ教育経験に関する調査』MPSジャパン  (Aoki, Kyoko (2018). <i>'Hanaiku' effectiveness assessment: A survey of the effects of flower education for children in Japan</i>. MPS Japan.)'
+citation: '青木恭子(2018)『「花育」効果検証: 花に触れ親しむ教育経験に関する調査』MPSジャパン  (Aoki, Kyoko (2018). <i>"Hanaiku" effectiveness assessment: A survey of the effects of flower education for children in Japan</i>. MPS Japan.)'
 ---
 # This paper is about the number 3. The number 4 is left for future work.
 
 # [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: 青木恭子(2018)『「花育」効果検証: 花に触れ親しむ教育経験に関する調査』MPSジャパン  (Aoki, Kyoko (2018). <i>'Hanaiku' effectiveness assessment: A survey of the effects of flower education for children in Japan</i>. MPS Japan.)
+Recommended citation: 青木恭子(2018)『「花育」効果検証: 花に触れ親しむ教育経験に関する調査』MPSジャパン  (Aoki, Kyoko (2018). <i>"Hanaiku" effectiveness assessment: A survey of the effects of flower education for children in Japan</i>. MPS Japan.)
