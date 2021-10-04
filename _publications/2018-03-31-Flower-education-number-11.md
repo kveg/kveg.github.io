@@ -1,5 +1,5 @@
 ---
-title: "「花育」効果検証: 花に触れ親しむ教育経験に関する調査 (Flower Consumption Survey Report 2020 : Trends in flower and plant consumption, purchase rate, purpose, vase-life  quality, environmental awareness, needs for cultivation information, preference for domestic and imported products, recognition rate of certifications, purchase rate of certified products)"
+title: "「花育」効果検証: 花に触れ親しむ教育経験に関する調査 ("Hanaiku" effectiveness assessment: A survey of the effects of flower education for children in Japan)"
 collection: publications
 permalink: /publication/2018-03-31-Flower-education-number-11
 excerpt: '学校や地域等で実施されてきた「花育」の効果を分析した。「花育」により、子どもは花や自然への共感を深める。保護者が子どもと一緒に「花育」に参加した場合、肯定的な変化がさらに強まる。「花育」参加者の5割超が、花育後、花や緑の購入が増えたと答えている。一般家庭と比べて、花育参加世帯では、花の購入率が約5割高い。特に「自宅用」の購入率は、花育家庭では65%で一般家庭の3倍に上る。花育調査回答者の世帯年収は単純平均720万円で、一般回答者の平均563万円に対して、157万円高い。しかし、同じ収入階級における花育家庭と一般消費者を比べても、やはり花育家庭の方が全体的に購買率が高い。
@@ -8,10 +8,10 @@ excerpt: '学校や地域等で実施されてきた「花育」の効果を分�
 date: 2018-03-31
 venue: '寄稿'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
-citation: '青木恭子(2018)『「花育」効果検証: 花に触れ親しむ教育経験に関する調査』MPSジャパン  (Aoki, Kyoko (2018). <i>"Hanaiku" effectiveness assessment: A survey of effects of flower education for children</i>. MPS Japan.)'
+citation: '青木恭子(2018)『「花育」効果検証: 花に触れ親しむ教育経験に関する調査』MPSジャパン  (Aoki, Kyoko (2018). <i>"Hanaiku" effectiveness assessment: A survey of the effects of flower education for children in Japan</i>. MPS Japan.)'
 ---
 # This paper is about the number 3. The number 4 is left for future work.
 
 # [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: 青木恭子(2018)『「花育」効果検証: 花に触れ親しむ教育経験に関する調査』MPSジャパン  (Aoki, Kyoko (2018). <i>"Hanaiku" effectiveness assessment: A survey of effects of flower education for children</i>. MPS Japan.)
+Recommended citation: 青木恭子(2018)『「花育」効果検証: 花に触れ親しむ教育経験に関する調査』MPSジャパン  (Aoki, Kyoko (2018). <i>"Hanaiku" effectiveness assessment: A survey of the effects of flower education for children in Japan</i>. MPS Japan.)
