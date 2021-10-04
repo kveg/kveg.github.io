@@ -8,6 +8,7 @@ venue: '寄稿'
 paperurl: #'  '
 citation: '青木恭子(2019)「FSI2020 (花きサステナビリティ・イニシアティブ) ユルン・アウトフースデンさん取材(1) このままでは、2020年以降、ヨーロッパへの日本の花輸出は困難になると警鐘」『MPSニュース』6月24日 (Aoki, Kyoko(2019). Interview with Mr.Jeroen Oudheusden, FSI2020, Floriculture Sustainability Initiative, Exectutive Officer. Without commitment for sustainability, Japanese flowers won't be able to satisfy the new European market standards. <i>MPS News</i>. June 24.)'
 ---
+
 # This paper is about the number 1. The number 2 is next.
 
 # [Download paper here](http://academicpages.github.io/files/paper2.pdf)
