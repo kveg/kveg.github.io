@@ -12,7 +12,6 @@ venue: '寄稿'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
 citation: '青木恭子（2019）『日持ち品質管理と認証の受容性：生産者～消費者調査 報告書』、2019年3月、国産花き日持ち性向上推進協議会(Aoki, Kyoko (2019).<i> Vase-life quality management and the acceptability of certifications: Producer and consumer survey report.</i>. Council for the Improvement of the Vase-life of Japanese Flowers.)'
 ---
-# This paper is about the number 2. The number 3 is left for future work.
 
 # [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
