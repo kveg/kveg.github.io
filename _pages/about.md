@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+ 
   
-  
-This is Gerda Research's home on the web </br>
+This is Gerda Research's home on the web
 https://gerdaresearch.github.io
