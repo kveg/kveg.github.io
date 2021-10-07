@@ -1,5 +1,5 @@
 ---
-title: "日持ち品質管理と認証の受容性：生産者～消費者調査 既存の花き認証と新設の農林水産省JAS（Japanese Agricultural Standards)「日持ち生産管理切り花」認証に対する需要　(Vase-life quality management and the demand for certifications: Producer and consumer survey. with a special focus on JAS（Japanese Agricultural Standards, by the Ministry of Agriculture) Cut flowers produced under controls for vase life in growers standards.)"
+title: "日持ち品質管理と認証の受容性：生産者～消費者調査 既存の花き認証と新設の農林水産省JAS「日持ち生産管理切り花」認証に対する需要　(Vase-life quality management and the demand for certifications: Producer and consumer survey. with a special focus on JAS（Japanese Agricultural Standards, by the Ministry of Agriculture) Cut flowers produced under controls for vase life in growers standards.)"
 collection: publications
 permalink: /publications/2019-03-31-Vaselife-survey-number-13
 excerpt: '花き認証、特に新設の農林水産省JAS（Japanese Agricultural Standards)「日持ち生産管理切り花」認証に対する受容可能性を探るため、花き生産者、小売および消費者に対するアンケートを実施（2018年7月～11月）、認証に対する評価を分析した。・生産者調査（150名回答）は、セミナー出席者対象。花き認証のうちリレーフレッシュネスの認知率は高く、89.9%にのぼった。花のJASは 65%、花のGAPは 62%の認知。認証は、「業界のレベル向上」（62%）「差別化」（45%）などの点で評価されている。「政府認証」への支持は比較的低く、46%にとどまった。「総合認証」（品質、経営、環境）の支持も44%と低い。取得検討条件としては、「取引条件として求められること」67%や、「事実上の標準」「諸認証の関係整備」（各64%）など、認証スキーム全体のわかりやすさが求められている。
