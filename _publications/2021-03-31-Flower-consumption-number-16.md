@@ -8,7 +8,6 @@ venue: '寄稿'
 paperurl: 'http://gerdaresearch.github.io/files/paper2.pdf'
 citation: '青木恭子(2021)『花の消費動向調査 報告書 2020年度：花き消費実態、日持ち保証販売、環境意識、認証』2021年3月、国産花き日持ち性向上推進協議会  (Aoki, Kyoko (2019). <i>Flower consumption survey report 2020</i>. Council for the Improvement of the Vase-life of Japanese Flowers.)'
 ---
-## This paper is about the number 3. The number 4 is left for future work.
 
 ## [Download paper here](http://gerdaresearch.github.io/files/paper2.pdf)
 
