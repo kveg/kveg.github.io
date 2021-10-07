@@ -11,6 +11,6 @@ citation: '青木恭子（2019）『世界の花き認証：環境・社会認�
 ---
 # This paper is about the number 2. The number 3 is left for future work.
 
-# [Download paper here](http://academicpages.github.io/files/paper2.pdf)
+# [Download paper here](http://gerdaresearch.github.io/files/paper12.pdf)
 
 Recommended citation: 青木恭子（2019）『世界の花き認証：環境・社会認証の普及と多元化する「品質」』2019年3月、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2019).<i> World floriculture certifications: The spread of environmental and social certification and the multiplication of quality demensions.</i>. March. Council for the Improvement of the Vase-life of Japanese Flowers.)
