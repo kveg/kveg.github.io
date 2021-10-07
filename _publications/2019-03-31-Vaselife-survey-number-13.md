@@ -9,10 +9,10 @@ excerpt: '花き認証、特に新設の農林水産省JAS（Japanese Agricultur
 (3)花きの「品質」　現存の日本発花き認証は、日持ちという特定「品質」に特化しているが、世界的には、日持ち品質は当然の前提、そのうえでさらに、環境や労働面での公正さ、経営の質などについて、課題解決を織り込んだ別次元の「品質」が問われている。'
 date: 2019-03-31
 venue: '寄稿'
-paperurl: #'http://academicpages.github.io/files/paper2.pdf'
+paperurl: #'http://gerdaresearch.github.io/files/paper13.pdf'
 citation: '青木恭子（2019）『日持ち品質管理と認証の受容性：生産者～消費者調査 報告書』、2019年3月、国産花き日持ち性向上推進協議会(Aoki, Kyoko (2019).<i> Vase-life quality management and the acceptability of certifications: Producer and consumer survey report.</i>. Council for the Improvement of the Vase-life of Japanese Flowers.)'
 ---
 
-# [Download paper here](http://academicpages.github.io/files/paper2.pdf)
+## [Download paper here](http://gerdaresearch.github.io/files/paper13.pdf)
 
 Recommended citation: 青木恭子（2019）『日持ち品質管理と認証の受容性：生産者～消費者調査 報告書』、2019年3月、国産花き日持ち性向上推進協議会(Aoki, Kyoko (2019).<i> Vase-life quality management and the acceptability of certifications: Producer and consumer survey report.</i>. Council for the Improvement of the Vase-life of Japanese Flowers.)
