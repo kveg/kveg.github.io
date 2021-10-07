@@ -12,7 +12,7 @@ venue: '寄稿'
 paperurl: 'https://organicnetwork.jp/international/2017/09/18/25134/'
 citation: '青木恭子（2017）「アルゼンチンのオーガニック事情（下）ブエノスアイレス、オーガニックの『いま』を探る」GON（Global Organic Network）2017年9月18日 (Aoki Kyoko (2018). Buenos Aires: New domestic demand for organic foods. <i>GON</i>. Sep 18)'
 ---
-# This paper is about the number 2. The number 3 is left for future work.
+## This paper is about the number 2. The number 3 is left for future work.
 
 https://organicnetwork.jp/international/2017/09/18/25134/
 
