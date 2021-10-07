@@ -10,6 +10,6 @@ citation:  '青木恭子（2016）「オーガニック・フードマーケテ�
 ---
 # This paper is about the number 3. The number 4 is left for future work.
 
-# [Download paper here](http://academicpages.github.io/files/paper3.pdf)
+## [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
 Recommended citation: 青木恭子（2016）「オーガニック・フードマーケティング通信　欧州の有機市場の現在：需要の伸びに生産追い付かず」『Agrio』2016年4月26日号（通号107）、時事通信社 (Aoki, Kyoko (2016). Organic Markets in Europe. <i>Agrio</i>. April 26. Jiji Press.)
