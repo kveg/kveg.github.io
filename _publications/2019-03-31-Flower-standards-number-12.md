@@ -6,7 +6,7 @@ excerpt: '輸出への認証活用を視野に、世界各国・地域におけ�
 ・花き認証の課題と展望について、制度、マーケティング、サプライチェーンに関わる社会および技術動向の視点から検討し、考えうる施策についてまとめる（第Ⅴ章）。'
 date: 2019-03-31
 venue: '寄稿'
-paperurl: #'http://academicpages.github.io/files/paper2.pdf'
+paperurl: #'http://academicpages.github.io/files/Aoki(2019)世界の認証動向調査 報告書 World Floriculture Certifications.pdf'
 citation: '青木恭子（2019）『世界の花き認証：環境・社会認証の普及と多元化する「品質」』2019年3月、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2019). <i>World floriculture certifications: The spread of environmental and social certification and the multiplication of quality dimensions.</i>. March. Council for the Improvement of the Vase-life of Japanese Flowers.)'
 ---
 # This paper is about the number 2. The number 3 is left for future work.
