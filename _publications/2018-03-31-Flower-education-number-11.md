@@ -7,11 +7,10 @@ excerpt: '学校や地域等で実施されてきた「花育」の効果を分�
 ・注意　本調査は、「花育」を広くとらえており、政府予算を投下して展開されてきた「花育」の特定プログラムに対する評価や費用対効果を直接測定するものではない。・本稿は、農林水産省「平成29年度産地活性化総合対策事業　国産花きイノベーション推進事業　花育活動全国推進事業」委託調査の結果を一部編集したもの。データの利用加工公開と原稿化の自由を条件に、MPSジャパンで筆者が設計、実施、分析した。'
 date: 2018-03-31
 venue: '寄稿'
-paperurl: #'http://academicpages.github.io/files/paper2.pdf'
+paperurl: #'http://gerdaresearch.github.io/files/paper11.pdf'
 citation: '青木恭子(2018)『「花育」効果検証: 花に触れ親しむ教育経験に関する調査』MPSジャパン  (Aoki, Kyoko (2018). <i>"Hanaiku" effectiveness assessment: A survey of the effects of flower education for children in Japan</i>. MPS Japan.)'
 ---
-# This paper is about the number 3. The number 4 is left for future work.
 
-# [Download paper here](http://academicpages.github.io/files/paper2.pdf)
+## [Download paper here](http://gerdaresearch.github.io/files/paper11.pdf)
 
 Recommended citation: 青木恭子(2018)『「花育」効果検証: 花に触れ親しむ教育経験に関する調査』MPSジャパン  (Aoki, Kyoko (2018). <i>"Hanaiku" effectiveness assessment: A survey of the effects of flower education for children in Japan</i>. MPS Japan.)
