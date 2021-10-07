@@ -1,5 +1,5 @@
 ---
-title: "花小売店　顧客満足の構造：2021年JCSI日本版顧客満足度調査 報告書（生花店カスタム調査） (The structure of customer satisfaction of flower retailers 2021: JCSI (Japanese Customer Satisfaction Index) survey report (Custom survey))"
+title: "花小売店　顧客満足の構造：2021年JCSI日本版顧客満足度調査 報告書（生花店カスタム調査） (The structure of customer satisfaction. Flower retailers 2021: JCSI (Japanese Customer Satisfaction Index) survey report (Custom survey))"
 collection: publications
 permalink: /publication/2021-10-15-Customer-satisfaction-number-17
 excerpt: '花小売のサービス業としての水準を定量的に把握し、顧客満足の構造を明らかにする。日本生産性本部サービス産業生産性協議会（SPRING）に依頼して、日本最大級の消費者調査であるJCSI日本版顧客満足度指数（Japanese Customer Satisfaction Index）の枠組みによるカスタム調査を実施した（JCSIとして発表される公式調査ではない）。  
