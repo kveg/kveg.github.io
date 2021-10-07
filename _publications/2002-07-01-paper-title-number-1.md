@@ -10,6 +10,6 @@ citation: '青海カラ青木恭子(2002)「インド 明日の大国を歩く �
 ---
 インドの少数派、チベットからの越境者たち、カシミール人　現地レポート　This article is about the minorities and refugees in India and Kashmir. The origin of terrestrial dispute over IH Kashmir.  Report of narratives of Kashmiris in Srinagar and Tibetan refugees
 
-#[Download paper here](http://gerdaresearch.github.io/files/paper1.pdf)
+##[Download paper here](http://gerdaresearch.github.io/files/paper1.pdf)
 
 Recommended citation: 青海カラ青木恭子(2002)「インド 明日の大国を歩く インドの少数派たち--貧者、難民、カシミール人」『時評』 44(7) (通号 472)、p.97-101.(Aumi Cara Aoki Kyoko (2002). India, the rising big power of tomorrow: Minorities in India, the poors, refugees and the Kashimiris. <i>Jihyo</i>. 44(1). p.97-101.)
