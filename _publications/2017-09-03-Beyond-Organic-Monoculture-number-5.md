@@ -12,7 +12,6 @@ venue: '寄稿'
 paperurl: 'https://organicnetwork.jp/international/2017/09/03/25133/'
 citation: '青木恭子（2018）「アルゼンチンのオーガニック事情（上）99%輸出の『オーガニック・モノカルチャー』を超えて」GON（Global Organic Network）2017年9月3日 (Aoki Kyoko (2018). Beyond the "Organic Monoculture": Changes in organic market in Argentine. <i>GON（Global Organic Network)</i>. Sep 3.'
 ---
-## This paper is about the number 2. The number 3 is left for future work.
 
 [link] https://organicnetwork.jp/international/2017/09/03/25133/
 
