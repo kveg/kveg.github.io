@@ -9,8 +9,5 @@ paperurl: 'https://organicnetwork.jp/business/topix/2017/11/02/25141/'
 
 citation: '青木恭子（2017）「苔で中山間地再生:島根県江津市『52（ごうつ）KOKE』プロジェクト」GON（Global Organic Network）2017年11月2日 (Aoki, Kyoko (2017). Revitalizing remote rural areas through the cultivation of moss :"52 (GOTSU) KOKE" Project in Gotsu City, Shimane Prefecture. <i>GON</i>. Nov 2.'
 ---
-# This paper is about the number 2. The number 3 is left for future work.
-
-# [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
 Recommended citation: 青木恭子（2017）「苔で中山間地再生:島根県江津市『52（ごうつ）KOKE』プロジェクト」GON（Global Organic Network）2017年11月2日 (Aoki, Kyoko (2017). Revitalizing remote rural areas through the cultivation of moss :"52 (GOTSU) KOKE" Project in Gotsu City, Shimane Prefecture. <i>GON</i>. Nov 2.　
