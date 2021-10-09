@@ -14,5 +14,6 @@ citation: '青木恭子（2019）『日持ち品質管理と認証の受容性�
 ---
 
 ## 全文ダウンロード（質問票、集計表付）[Download paper here](http://gerdaresearch.github.io/files/Aoki_2019_花のJAS受容性_生産者_消費者調査_20190329.pdf)
+## 調査票、データセット レポジトリ　[See datasets here](https://github.com/gerdaresearch/flower_certification_demand_survey-2018)
 
 Recommended citation: 青木恭子（2019）『日持ち品質管理と認証の受容性：生産者～消費者調査 報告書』、2019年3月、国産花き日持ち性向上推進協議会(Aoki, Kyoko (2019).<i> Vase-life quality management and the acceptability of certifications: Producer and consumer survey report.</i>. Council for the Improvement of the Vase-life of Japanese Flowers.)
