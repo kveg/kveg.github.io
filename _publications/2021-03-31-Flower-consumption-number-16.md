@@ -10,5 +10,6 @@ citation: '青木恭子(2021)『花の消費動向調査 報告書 2020年度：
 ---
 
 ## 報告書へのリンク [Full report]()
+## コロナ禍の花・植物経験 自由回答データセット レポジトリ　[See datasets here](https://github.com/gerdaresearch/)
 
 Recommended citation: 青木恭子(2021)『花の消費動向調査 報告書 2020年度：花き消費実態、日持ち保証販売、環境意識、認証』2021年3月、国産花き日持ち性向上推進協議会  (Aoki, Kyoko (2019). <i>Flower consumption survey report 2020</i>. Council for the Improvement of the Vase-life of Japanese Flowers.)
