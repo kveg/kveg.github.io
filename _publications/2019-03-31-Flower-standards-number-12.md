@@ -1,5 +1,5 @@
 ---
-title: "世界の花き認証 環境・社会認証の普及と多元化する「品質」(World floriculture certifications:The spread of environmental and social certification and the multiplication of quality dimensions) 農林水産省実証事業"　
+title: "世界の花き認証 環境・社会認証の普及と多元化する「品質」 農林水産省実証事業 (World floriculture certifications:The spread of environmental and social certification and the multiplication of quality dimensions)"  
 collection: publications
 permalink: /publications/2019-03-31-Flower-standards-number-12
 excerpt: '輸出への認証活用を視野に、世界各国・地域における花きや農産物認証の状況を調べる。花き認証が有効に働き、受容される条件や、制度設計について考察する。当時立ち上げられた花の日持ち品質管理に関わる政府認証「切り花のJAS（日本農林規格）認証」についても検討している。2018年度の農林水産省「花き日持ち性向上対策実証事業」の助成を受けて調査。　　
@@ -15,5 +15,6 @@ citation: '青木恭子（2019）『世界の花き認証：環境・社会認�
 
 ### 報告書 全文リンク[Download paper here](http://gerdaresearch.github.io/files/Aoki_2019_世界の認証動向調査_World_Floriculture_Certifications.pdf)
 
-Recommended citation: 青木恭子（2019）『世界の花き認証：環境・社会認証の普及と多元化する「品質」』、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2019).<i> World floriculture certifications: The spread of environmental and social certifications and the multiplication of quality demensions.</i>. Council for the Vase-life Improvement of Japanese Flowers.)
-This research was funded by the Ministry of Agriculture, Forestry and Fisheries, Japan. FY 2018 " Experimental project for the improvement of the flower vase-life.
+Recommended citation: 青木恭子（2019）『世界の花き認証：環境・社会認証の普及と多元化する「品質」』、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2019).<i> World floriculture certifications: The spread of environmental and social certifications and the multiplication of quality demensions.</i>. Council for the Vase-life Improvement of Japanese Flowers.)  
+This research was funded by the Ministry of Agriculture, Forestry and Fisheries, Japan. FY 2018 " Experimental project for the improvement of the flower vase-life.  
+
