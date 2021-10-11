@@ -1,5 +1,5 @@
 ---
-title: "花小売店　顧客満足の構造：2021年JCSI日本版顧客満足度調査 報告書（生花店カスタム調査） (The structure of customer satisfaction. Flower retailers 2021: JCSI (Japanese Customer Satisfaction Index) survey report (Custom survey))"
+title: "花小売店　顧客満足の構造：2021年JCSI日本版顧客満足度調査（生花店カスタム調査） (The structure of customer satisfaction. Flower retailers 2021: JCSI (Japanese Customer Satisfaction Index) survey (Custom survey))"
 collection: publications
 permalink: /publication/2021-10-15-Customer-satisfaction-number-17
 excerpt: '花小売のサービス業としての水準を定量的に把握し、顧客満足の構造を明らかにする。日本生産性本部サービス産業生産性協議会（SPRING）に依頼して、日本最大級の消費者調査であるJCSI日本版顧客満足度指数（Japanese Customer Satisfaction Index）の枠組みによるカスタム調査を実施した（JCSIとして発表される公式調査ではない）。  
@@ -13,10 +13,11 @@ excerpt: '花小売のサービス業としての水準を定量的に把握し�
 date: 2021-10-15
 venue: '寄稿'
 paperurl: 'http://gerdaresearch.github.io/files/paper14.pdf'
-citation: '青木恭子（2021）『花小売店　顧客満足の構造：2021年JCSI日本版顧客満足度調査 報告書（生花店カスタム調査）』2021年3月、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2021). <i>The structure of customer satisfaction of flower retailers 2021: JCSI (Japanese Customer Satisfaction Index) survey report (Custom survey)</i>. Council for the Improvement of the Vase-life of Japanese Flowers.)'
+citation: '青木恭子（2021）『花小売店　顧客満足の構造：2021年JCSI日本版顧客満足度調査（生花店カスタム調査）』（受託先：日本生産性本部 サービス産業生産性協議会）、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2021). <i>The structure of customer satisfaction of flower retailers 2021: JCSI (Japanese Customer Satisfaction Index) survey (Custom survey)</i>. Council for the Vase-life Improvement of Japanese Flowers.
+
 ---
 
 
-# [Download paper here](http://gerdaresearch.github.io/files/paper14.pdf) 準備中
+## 本文へのリンク [Download paper here](http://gerdaresearch.github.io/files/paper17.pdf) 準備中
 
-Recommended citation: 青木恭子（2021）『花小売店　顧客満足の構造：2021年JCSI日本版顧客満足度調査 報告書（生花店カスタム調査）』2021年3月、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2021). <i>The structure of customer satisfaction of flower retailers 2021: JCSI (Japanese Customer Satisfaction Index) survey report (Custom survey)</i>. Council for the Improvement of the Vase-life of Japanese Flowers.)　
+Recommended citation: 青木恭子（2021）『花小売店　顧客満足の構造：2021年JCSI日本版顧客満足度調査 報告書（生花店カスタム調査）』（受託先：日本生産性本部 サービス産業生産性協議会）、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2021). <i>The structure of customer satisfaction of flower retailers 2021: JCSI (Japanese Customer Satisfaction Index) survey (Custom survey)</i>. Council for the Vase-life Improvement of Japanese Flowers.)　
