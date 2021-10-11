@@ -1,5 +1,5 @@
 ---
-title: "「花育」効果検証: 花に触れ親しむ教育経験に関する調査 ('Hanaiku' effectiveness assessment: A survey of the effects of flower education for children in Japan) 農林水産省実証事業"　
+title: "「花育」効果検証: 花に触れ親しむ教育経験に関する調査 (Hanaiku effectiveness assessment: A survey of the effects of flower education for children in Japan) 農林水産省実証事業"　
 collection: publications
 permalink: /publication/2018-03-31-Flower-education-number-11
 excerpt: '学校や地域等で実施されてきた「花育」の効果を分析した。「花育」により、子どもは花や自然への共感を深める。保護者が子どもと一緒に「花育」に参加した場合、肯定的な変化がさらに強まる。「花育」参加者の5割超が、花育後、花や緑の購入が増えたと答えている。一般家庭と比べて、花育参加世帯では、花の購入率が約5割高い。特に「自宅用」の購入率は、花育家庭では65%で一般家庭の3倍に上る。花育調査回答者の世帯年収は単純平均720万円で、一般回答者の平均563万円に対して、157万円高い。しかし、同じ収入階級における花育家庭と一般消費者を比べても、やはり花育家庭の方が全体的に購買率が高い。
