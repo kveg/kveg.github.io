@@ -13,7 +13,7 @@ paperurl: #'http://gerdaresearch.github.io/files/Aoki_2019_世界の認証動向
 citation: '青木恭子（2019）『世界の花き認証：環境・社会認証の普及と多元化する「品質」』、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2019). <i>World floriculture certifications: The spread of environmental and social certifications and the multiplication of quality dimensions.</i>. Council for the Vase-life Improvement of Japanese Flowers.)'
 ---
 
-### 報告書 全文リンク[Download paper here](http://gerdaresearch.github.io/files/Aoki_2019_世界の認証動向調査_World_Floriculture_Certifications.pdf)
+### 報告書 全文リンク[Download paper here](http://gerdaresearch.github.io/files/Aoki_2019_World_Floriculture_Certifications.pdf)
 
 Recommended citation: 青木恭子（2019）『世界の花き認証：環境・社会認証の普及と多元化する「品質」』、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2019).<i> World floriculture certifications: The spread of environmental and social certifications and the multiplication of quality demensions.</i>. Council for the Vase-life Improvement of Japanese Flowers.)  
 This research was funded by the Ministry of Agriculture, Forestry and Fisheries, Japan. FY 2018 " Experimental project for the improvement of the flower vase-life.  
