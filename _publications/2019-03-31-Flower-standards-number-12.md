@@ -17,4 +17,3 @@ citation: '青木恭子（2019）『世界の花き認証：環境・社会認�
 
 Recommended citation: 青木恭子（2019）『世界の花き認証：環境・社会認証の普及と多元化する「品質」』、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2019).<i> World floriculture certifications: The spread of environmental and social certifications and the multiplication of quality demensions.</i>. Council for the Vase-life Improvement of Japanese Flowers.)  
 This research was funded by the Ministry of Agriculture, Forestry and Fisheries, Japan. FY 2018 " Experimental project for the improvement of the flower vase-life.  
-
