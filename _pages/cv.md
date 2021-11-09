@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. Sociology, Waseda University, Japan
-* M.A. Sociology, Graduate School, Waseda University, Japan
-* Diploma. International Relations, Graduate School, London School of Economics, University of London, U.K.
+* School of Humanities and Social Sciences, Waseda University, Japan (Department of Philosophy) 
+* Graduate School of Letters, Arts and Sciences, Waseda University, Japan (Cultural Sciences Sociology)
+* Graduate School, London School of Economics, University of London, U.K.(Department of International Relations)  
 
 Work experience
 ======
