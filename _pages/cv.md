@@ -20,13 +20,11 @@ Work experience
 * ~ Spring 2020: Researcher
   * MPS Japan
   * Duties included: Research on environmental certifications, floriculture, sustainability
-  #* Supervisor: Professor Git
 
 * ~present: Founder & Researcher
   * Gerda Research
   * Duties included: Conducting market research
-  #* Supervisor: Professor Hub
-  
+   
 Skills
 ======
 
