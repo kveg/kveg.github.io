@@ -6,7 +6,7 @@ excerpt: 'Analysis of the structure of customer satisfaction of 6 Japanese Flowe
 date: 2021-11-23
 venue: '寄稿'
 paperurl: 'https://github.com/gerdaresearch/flower-retailer-customer-satisfaction-survey2021-Japan/blob/main/JCSI_consumer_satisfaction_survey_REPORT_flower_retailer_2021.pdf'
-citation: 'Aoki, Kyoko (2021).<i>The structure of customer satisfaction: 2021 JCSI custom survey on Flower shops</i>.Japan Flower Vase Life Improvement Council (MPS Japan).)'
+citation: 'Aoki, Kyoko (2021).<i>The structure of customer satisfaction: 2021 JCSI custom survey on Flower shops</i>.Japan Flower Vase Life Improvement Council (MPS Japan).'
 ---
 
 ## [Link_report, questionnaire, tables](https://github.com/gerdaresearch/flower-retailer-customer-satisfaction-survey2021-Japan)   
