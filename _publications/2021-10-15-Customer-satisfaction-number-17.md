@@ -14,4 +14,9 @@ citation: '青木恭子(2021)『花小売店　顧客満足の構造：2021年JC
 
 Recommended citation: 青木恭子（2021）『花小売店　顧客満足の構造：2021年JCSI日本版顧客満足度調査 報告書 生花店カスタム調査』日本生産性本部 サービス産業生産性協議会受託、国産花き日持ち性向上推進協議会 (Aoki, Kyoko (2021). <i>The structure of customer satisfaction of flower retailers 2021: JCSI Japanese Customer Satisfaction Index custom survey</i>. Council for the Vase-life Improvement of Japanese Flowers.)  
 This research was funded by the Ministry of Agriculture, Forestry and Fisheries, FY 2020 "Next generation Japanese domestic flower industry establishment project".  
-
+<br>
+<br>
+<br>
+<br>
+<br>
+###### 免責事項：本報告書作成に当たっては、細心の注意を払って作業を行なっていますが、万一情報に誤りがあった場合でも、本団体及び著者は一切の責任を負いかねます。また、これらの情報を読者がご利用あるいは引用されることにより、副次的に発生したトラブルや損失についても同様です。内容は、予告なしに更新や削除されることがあります。ご了承ください。
