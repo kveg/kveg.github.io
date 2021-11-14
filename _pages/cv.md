@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* School of Humanities and Social Sciences, Waseda University, Japan (Department of Philosophy) 
+* School of Humanities, Waseda University, Japan (Sociology) 
 * Graduate School of Letters, Arts and Sciences, Waseda University, Japan (Cultural Sciences Sociology)
 * Graduate School, London School of Economics, University of London, U.K.(Department of International Relations)  
 
