@@ -9,7 +9,7 @@ paperurl:  https://gerdaresearch.github.io/posts/2021/11/blog-post-4/
 citation: 'Aoki, Kyoko (2021).<i>The structure of customer satisfaction: 2021 JCSI custom survey on Flower shops</i>.Japan Flower Vase Life Improvement Council (MPS Japan).'
 ---
 
-## [Link_report(in Japanese)](https://github.com/gerdaresearch/flower-retailer-customer-satisfaction-survey2021-Japan)   
+## [Link_report(in Japanese)](https://www.researchgate.net/publication/357013429_huaxiaomai_gukemanzunogouzao2021_nian_JCSI_ribenbangukemanzududiaozhashenghuadiankasutamudiaozha_shoutuoxianribenshengchanxingbenbu_sabisuchanyeshengchanxingxieyihui)   
  
 ### Citation  
 You are free to cite the results of the survey. Please note that this is not an official JCSI survey and that use of the results for corporate publicity is not permitted.  
