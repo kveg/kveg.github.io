@@ -11,7 +11,7 @@ citation: '青木恭子(2021)『観葉植物の顧客離脱を防ぐには ～�
 
 ## [本文リンク_Link_Fulltext](https://www.researchgate.net/profile/Kyoko-Aoki)   
 Recommended citation: 青木恭子(2021)『観葉植物の顧客離脱を防ぐには ～栽培状況、枯らせた経験、虫への忌避感と購入』、国産花き生産流通強化推進協議会 (Aoki, Kyoko (2021).<i>Preventing houseplants customer churn: Analysis of the influences of withering-up experiences and aversion to insects on purchase propensity</i>.Council for Japanese Flower Production and Distribution Enhancement.)  
-## [DOI(Digital Object Identifier, デジタルオブジェクト識別子)](10.13140/RG.2.2.20082.63681)
+## [DOI(Digital Object Identifier, デジタルオブジェクト識別子)](http://dx.doi.org/10.13140/RG.2.2.20082.63681)
 This research was funded by the Ministry of Agriculture, Forestry and Fisheries, FY 2021 Japan flower enhancement project.  
 <br>
 
