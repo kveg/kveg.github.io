@@ -10,7 +10,7 @@ citation: '国産花き生産流通強化推進協議会（2021）『花の消�
 
 ---
 
-## [本文リンク_Link_Fulltext](https://www.researchgate.net/publication/357825493_Flower_Consumption_Survey_in_Japan_2021_huanoxiaofeidongxiangdiaozha_2021nian_huakixiaofeirichichibaozhengfanmaihuanjingduiyingrenzheng_oyobiguanyezhiwunogouruzaipeishitai_Flower_Consumption_Survey_20)  
+## [報告書本文リンク_Link_Fulltext](https://www.researchgate.net/publication/357825493_Flower_Consumption_Survey_in_Japan_2021_huanoxiaofeidongxiangdiaozha_2021nian_huakixiaofeirichichibaozhengfanmaihuanjingduiyingrenzheng_oyobiguanyezhiwunogouruzaipeishitai_Flower_Consumption_Survey_20)  
 Recommended citation: 国産花き生産流通強化推進協議会（2021）『花の消費動向2021年』（調査委託：ゲルダ・リサーチ）(Aoki, Kyoko (2021). *The consumption of flowers and plants in Japan 2021.* Council for Japanese Flower Production and Distribution Enhancement.)  
 This research was funded by the Ministry of Agriculture, Forestry and Fisheries, FY 2021 Japan flower enhancement project.  
 <br>
