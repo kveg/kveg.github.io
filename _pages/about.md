@@ -10,8 +10,10 @@ redirect_from:
 ---
 
 環境認証、オーガニック、花・園芸植物に関するリサーチ。効果検証、利用者調査、顧客満足度、基準認証政策の評価などを行ってきました。調査、著作やデータの一部を、このサイトで公開しています。  
-傍ら、耕作放棄地と里山放置林の再生中・鎮守の森藪刈り。森林・農地所有・耕作。半径500mの食料自給を増やそうと、半農半X。Gerda Research by Aoki Kyoko. Main research fields: Assessment of policy effectiveness,  market surveys, customer satisfaction survey, sustainability standards and certifications strategies, in the fields of organic, alternative protein, floral and horticultural market. Besides, as a personal project, I have been tackling the rehabilitation of the abandoned farmlands and the neglected satoyama forests.It would be fantastic if you could produce even half of the foods you eat within a radius of 500 m around home... don't you agree? 
+その傍ら、耕作放棄地と里山放置林の再生中・鎮守の森藪刈り。森林・農地所有・耕作。半径500m内で、少しずつ食料自給を目指しています。  
+Gerda Research by Aoki Kyoko. Main research fields: Assessment of policy effectiveness,  market surveys, customer satisfaction survey, sustainability standards and certifications strategies, in the fields of organic, alternative protein, floral and horticultural market.   
+Besides, as a personal project, I have been tackling the rehabilitation of the abandoned farmlands and the neglected satoyama forests.It would be fantastic if you could produce even half of the foods you eat within a radius of 500 m around home... don't you agree?   
 Founder of Gerda Research.  
   
 This is Gerda Research's home on the web.  
-https://gerdaresearch.github.io
+[Gerda Research](https://gerdaresearch.github.io)
