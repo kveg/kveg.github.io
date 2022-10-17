@@ -16,4 +16,6 @@ Besides, as a personal project, I have been tackling the rehabilitation of the a
 Founder of Gerda Research.  
   
 This is Gerda Research's home on the web.  
-[Gerda Research](https://gerdaresearch.github.io)
+[Gerda Research home ホームページ](https://gerdaresearch.github.io)
+[Publications 著作](https://gerdaresearch.github.io/publications)
+[Blog posts ブログ（著作解説など）](https://gerdaresearch.github.io/year-archive)
