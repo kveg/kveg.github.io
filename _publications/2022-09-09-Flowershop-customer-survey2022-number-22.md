@@ -16,7 +16,9 @@ citation: '青木恭子（2022）「花店利用者調査2022年』国産花き�
 ---
 
 ## [報告書本文リンク_Link_Fulltext](https://www.researchgate.net/publication/364350432_huadianliyongzhediaozha_2022nianyetaibienoliyongzhuangkuangtogukepingsi_Flower_shop_customer_survey_2022_Japan)  
-Recommended citation: 青木恭子（2022）「花店利用者調査2022年～業態別の利用状況と顧客評価」国産花き生産流通強化推進協議会（調査委託 ゲルダ・リサーチ）(Aoki, Kyoko (2022) *Flower shop customer survey 2022: Purchasing behaviour and customer evaluations by business category*. Council for Japanese Flower Production and Distribution Enhancement.)  
+Recommended citation: 青木恭子（2022）「花店利用者調査2022年～業態別の利用状況と顧客評価」国産花き生産流通強化推進協議会（調査委託 ゲルダ・リサーチ）(Aoki, Kyoko (2022) *Flower shop customer survey 2022: Purchasing behaviour and customer evaluations by business category*. Council for Japanese Flower Production and Distribution Enhancement.)   
+https://www.researchgate.net/profile/Kyoko-Aoki/research  
 This research was funded by the Ministry of Agriculture, Forestry and Fisheries, FY 2021 Japan flower enhancement project.  
+
 <br>
 ###### 免責事項：本報告書作成に当たっては、細心の注意を払って作業を行なっていますが、万一情報に誤りがあった場合でも、本団体及び著者は一切の責任を負いかねます。また、これらの情報を読者がご利用あるいは引用されることにより、副次的に発生したトラブルや損失についても同様です。内容は、予告なしに更新や削除されることがあります。ご了承ください。  
