@@ -1,5 +1,5 @@
 ---
-title: "花店利用者調査 2022年～業態別の利用状況と顧客評価  Flower Consumption Survey 2021:Trends in flower and plant consumption in Japan"
+title: "花店利用者調査 2022年～業態別の利用状況と顧客評価  Flower shop customer survey 2022 Japan: Purchasing behaviour and customer evaluations by business category"
 collection: publications
 permalink: /publication/2022-09-09-Flowershop-customer-survey2022-number-22
 excerpt: '「花店利用者調査」2022年版では、花・植物の小売に関わる9つの企業・業態の顧客（最近1年間利用者 全1005名、2022年2月実施）を対象に、利用状況と評価を調べた。
