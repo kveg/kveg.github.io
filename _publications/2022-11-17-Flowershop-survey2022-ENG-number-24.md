@@ -6,7 +6,7 @@ excerpt: 'We asked customers of 9 flower/plant retailers in Japan about their pu
 date: 2022-11-17
 venue: '寄稿'
 paperurl: ''
-citation: 'Aoki, Kyoko (2022).*Flower shop customer survey Japan 2022: Purchasing behavior and customer evaluations by retail format (English version).* Council for Japanese Flower Production and Distribution Enhancement (MPS Japan).'  
+citation: 'Aoki, Kyoko (2022). Flower shop customer survey Japan 2022: Purchasing behavior and customer evaluations by retail format (English version). Council for Japanese Flower Production and Distribution Enhancement(MPS Japan).'  
 
 ---
 
